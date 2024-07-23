@@ -1,0 +1,5 @@
+This time it's not in the breakpoints menu !
+In IntelliJ, explore the menu
+In VSCode, explore https://github.com/microsoft/debugpy/wiki/Debug-configuration-settings
+
+If you're super curious, you can implement the feature yourself and solve the hard variant !

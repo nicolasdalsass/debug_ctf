@@ -1,0 +1,2 @@
+IntelliJ : Have you noticed the "evaluate and log" option in the breakpoint menu ?
+VSCode : not quite clear for now

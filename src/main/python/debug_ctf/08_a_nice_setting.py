@@ -9,4 +9,6 @@ def get_random_float():
 get_random_int()
 get_random_float()
 
-print("The flag is captured if you know the returned values of the two functions.") # You're only allowed to breakpoint here
+# IntelliJ : You're only allowed to breakpoint on the print() line
+# VSCode : you're allowed to breakpoint where you want, but you're not allowed to change any state whatsoever
+print("The flag is captured if you know the returned values of the two functions.")

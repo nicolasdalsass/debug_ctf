@@ -1,4 +1,5 @@
-# You're not allowed to use the nice setting. This is a "hard variant", because it needs researching python capabilities
+# You're not allowed to use the nice setting. This is a "hard variant", because it needs researching python capabilities.
+# Have a look at sys.settrace, or sys.monitoring if you're running python 3.12
 import numpy as np
 
 

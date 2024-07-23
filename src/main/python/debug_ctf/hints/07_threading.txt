@@ -1,0 +1,2 @@
+In IntelliJ, Have a good look at that breakpoint menu again :-D
+In VSCode, should be straightforward by default

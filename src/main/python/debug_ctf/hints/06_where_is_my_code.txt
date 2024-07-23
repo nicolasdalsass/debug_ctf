@@ -1,0 +1,5 @@
+Not only do you have to execute the resource file, but it has to run with some state, since it needs a variable.
+
+So consider your options: would subprocess.call, exec and/or eval allow you to pass some state to the code they're executing ?
+
+Being able to execute some code that effectively has access to the current state of the main thread is a quite useful tool :-)

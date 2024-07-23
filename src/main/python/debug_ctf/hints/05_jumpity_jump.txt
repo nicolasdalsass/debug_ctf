@@ -1,0 +1,6 @@
+pdb is the debugger built in the python language : https://docs.python.org/3/library/pdb.html
+
+The debugger embarked by IntelliJ is based on pydevd : https://github.com/fabioz/PyDev.Debugger/
+VScode ships with debugpy, which behaves quite similarly I believe. There's also a pydev extension
+
+This is just an excuse to try out pdb, which is nice by itself !

@@ -1,0 +1,2 @@
+There really is no special magic to it. The goal is to make sure you can attach your debugger to a running process.
+The way to do that depends on your tooling, it's known doable for IntelliJ Ultimate and VSCode

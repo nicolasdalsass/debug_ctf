@@ -1,4 +1,4 @@
-# Feel free to change this block to accomodate your own tooling
+# Feel free to change this block to accommodate your own tooling
 # Do not however run this file, this is a resource file !
 
 #pycharm variant
